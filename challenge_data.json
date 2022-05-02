@@ -1,7 +1,9 @@
 [
   {
     "desafio": "16/03 - Lição 2 - Variáveis e seus tipos",
-    "tipo": "exercício",
+    "tipo": "Exercício",
+    "total": 7,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1647280392347589",
     "url": [
       "https://github.com/tryber/acc-java-01-exercises-antecessor-sucessor/pulls",
       "https://github.com/tryber/acc-java-01-exercises-calcula-area/pulls",
@@ -14,7 +16,9 @@
   },
   {
     "desafio": "16/03 - Lição 3 - Estruturas condicionais e de repetição",
-    "tipo": "exercício",
+    "tipo": "Exercício",
+    "total": 4,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1647280392347589",
     "url": [
       "https://github.com/tryber/acc1-java-0x-exercises-do-while-conexao-discada/pulls",
       "https://github.com/tryber/acc-java-01-exercises-for-numeros-pares/pulls",
@@ -24,7 +28,9 @@
   },
   {
     "desafio": "17/03 - Lição 4 - Finalmente, o 'Hello, world!' em Java!",
-    "tipo": "exercício",
+    "tipo": "Exercício",
+    "total": 2,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1647280392347589",
     "url": [
       "https://github.com/tryber/acc-java-01-exercises-idade-em-dias/pulls",
       "https://github.com/tryber/acc-java-01-exercises-media-anual/pulls"
@@ -32,9 +38,230 @@
   },
   {
     "desafio": "18/03 - Lição 5 - Desafio Agregador",
-    "tipo": "exercício",
+    "tipo": "Agregador",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1647280392347589",
     "url": [
       "https://github.com/tryber/acc-java-01-exercises-controle-de-acesso/pulls"
+    ]
+  },
+  {
+    "desafio": "22/03 - Lição 6 e 7 - Orientação a objetos",
+    "tipo": "Exercício",
+    "total": 2,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1647885390077919",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-conta-poupanca/pulls",
+      "https://github.com/tryber/acc-java-01-exercises-encapsulamento-recursos-humanos/pulls"
+    ]
+  },
+  {
+    "desafio": "23/03 - Lição 8 - Orientação a objetos",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1647885390077919",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-gerar-pessoa-usuaria/pulls"
+    ]
+  },
+  {
+    "desafio": "24/03 - Lição 9 -  Orientação a objetos",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1647885390077919",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-polimorfismo-recursos-humanos/pulls"
+    ]
+  },
+  {
+    "desafio": "25/03 - Lição 10 - Orientação a objetos",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1647885390077919",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-jogo-das-fazendas/pulls"
+    ]
+  },
+  {
+    "desafio": "29/03 - Orientação a objetos - Desafio Agregador",
+    "tipo": "Agregador",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648471687938449",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-sistema-de-votacao/pulls"
+    ]
+  },
+  {
+    "desafio": "30/03 - Manipulação de textos e arquivos - Leitura e escrita em arquivos",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648471687938449",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-gerador-senhas/pulls"
+    ]
+  },
+  {
+    "desafio": "31/03 - Manipulação de textos e arquivos - Desafio Agregador",
+    "tipo": "Agregador",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648471687938449",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-conversor-csv/pulls"
+    ]
+  },
+  {
+    "desafio": "01/04 - Tratamento de erros - Try/Catch! As exceções que Java lança e as formas de pegá-las",
+    "tipo": "Exercício",
+    "total": 2,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648471687938449",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-divisor/pulls",
+      "https://github.com/tryber/acc-java-01-exercises-tratando-nulos/pulls"
+    ]
+  },
+  {
+    "desafio": "05/04 - Tratamento de erros - Refinando seu tratamento de erros",
+    "tipo": "Exercício",
+    "total": 2,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648846215813879",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-excecao-maior-idade/pulls",
+      "https://github.com/tryber/acc-java-01-exercises-excecao-leitura-arquivos/pulls"
+    ]
+  },
+  {
+    "desafio": "06/04 - Tratamento de erros - Desafio Agregador",
+    "tipo": "Agregador",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648846215813879",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-simulador-de-pix/pulls"
+    ]
+  },
+  {
+    "desafio": "07/04 - Coleções - List e Set",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648846215813879",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-agenda/pulls"
+    ]
+  },
+  {
+    "desafio": "07/04 - Coleções - Map",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648846215813879",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-agenda-com-map/pulls"
+    ]
+  },
+  {
+    "desafio": "08/04 - Coleções - Streams: o que são e como criá-las",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648846215813879",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-criador-stream/pulls"
+    ]
+  },
+  {
+    "desafio": "08/04 - Coleções - Operando sobre Streams",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1648846215813879",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-concessionaria/pulls"
+    ]
+  },
+  {
+    "desafio": "12/04 - Coleções - Desafio Agregador",
+    "tipo": "Agregador",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1649870916393649",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-consulta-filmes/pulls"
+    ]
+  },
+  {
+    "desafio": "13/04 - Datas - Datas com horários",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1649870916393649",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-simulador-rendimento/pulls"
+    ]
+  },
+  {
+    "desafio": "13/04 - Datas - Operações sobre datas ou horários",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1649870916393649",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-ano-bissexto/pulls"
+    ]
+  },
+  {
+    "desafio": "19/04 - Datas - Desafio Agregador",
+    "tipo": "Agregador",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1650320310366419",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-planejamento-de-viagem/pulls"
+    ]
+  },
+  {
+    "desafio": "19/04 - Gestão de Dependências - Maven e Gradle",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1650320310366419",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-gradle-war/pulls"
+    ]
+  },
+  {
+    "desafio": "25/04 - Gestão de Dependências - Desafio Agregador",
+    "tipo": "Agregador",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1650899192459539",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-bank-account/pulls"
+    ]
+  },
+  {
+    "desafio": "26/04 -  Testes JUnit 5 - Testes unitários com JUnit 5",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1650899192459539",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-sistema-rh/pulls"
+    ]
+  },
+  {
+    "desafio": "27/04 -   Testes JUnit 5 - TDD com JUnit 5",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1650899192459539",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-sistema-bancario/pulls"
+    ]
+  },
+  {
+    "desafio": "28/04 -  Testes JUnit 5 - Desafio Agregador",
+    "tipo": "Agregador",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1650899192459539",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-caixa-eletronico/pulls"
+    ]
+  },
+  {
+    "desafio": "29/04 - ORM: Hibernate - Criando entidades",
+    "tipo": "Exercício",
+    "total": 1,
+    "slack": "https://trybecourse.slack.com/archives/C03642STZGB/p1650899192459539",
+    "url": [
+      "https://github.com/tryber/acc-java-01-exercises-veiculo-hibernate/pulls"
     ]
   }
 ]

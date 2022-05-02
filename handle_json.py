@@ -8,6 +8,6 @@ def read(path):
         return json.load(file)
 
 
-def write(path, data):
-    with open(path, 'w', encoding='utf-8') as file:
+def write(data):
+    with open('api_data.json', 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=2, ensure_ascii=False)
