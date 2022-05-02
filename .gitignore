@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+api_data.json
 
 # C extensions
 *.so
