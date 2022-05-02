@@ -1,0 +1,4 @@
+black==21.6b0
+python-dotenv==0.18.0
+mechanize==0.4.8
+beautifulsoup4==4.11.1
